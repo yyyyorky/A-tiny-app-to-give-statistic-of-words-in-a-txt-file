@@ -1,4 +1,4 @@
-# An-tiny-app-to-give-statistic-of-words-in-a-txt-file
+# A-tiny-app-to-give-statistic-of-words-in-a-txt-file
 The app is written in C language. It can deal with txt files with any length and given a statistic file of words in the file.
 There is no limitation on length of words and number of words.
 The app is used in linux system.
